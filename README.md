@@ -1,4 +1,4 @@
-# github-pull-request-extension README
+# AI-Powered GitHub PR Generator 🚀
 
 This is the README for your extension "github-pull-request-extension". After writing up a brief description, we recommend including the following sections.
 
