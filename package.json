@@ -1,6 +1,6 @@
 {
-  "name": "github-pull-request-extension",
-  "displayName": "github-pull-request-extension",
+  "name": "ai-powered-github-pr-generator-vsc-extension",
+  "displayName": "ai-powered-github-pr-generator-vsc-extension",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -14,7 +14,7 @@
   "contributes": {
     "commands": [
       {
-        "command": "github-pull-request-extension.helloWorld",
+        "command": "ai-powered-github-pr-generator-vsc-extension.helloWorld",
         "title": "Hello World"
       }
     ]
